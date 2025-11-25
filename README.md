@@ -1,9 +1,5 @@
+<img width="740" height="255" alt="encurtado" src="https://github.com/user-attachments/assets/53aa4822-36b0-4b02-9aa3-0c3b77bd8593" />
 <!-- Perfil GitHub README -->
-
-<p align="center">
-  <!-- Substitua `assets/banner.png` pelo caminho da sua imagem de banner dentro do repositório -->
-  <img src="assets/banner.png" alt="GitHub Banner Dark" />
-</p>
 
 <h1 align="center">Olá! Sou Diego ✨</h1>
 <p align="center">
