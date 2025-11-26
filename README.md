@@ -37,12 +37,3 @@ Sou apaixonado por tecnologia e atualmente estou me dedicando ao estudo de **Jav
 </p>
 
 ---
-
-✨ **Como usar:**
-
-1. Crie um repositório com o mesmo nome do seu usuário GitHub (ex.: `Diego` → `Diego/Diego`).
-2. Adicione a imagem de banner ao repositório em `assets/banner.png` ou outro caminho que preferir.
-3. Coloque o conteúdo acima em um arquivo `README.md` na raiz do repositório.
-4. Substitua `YOUR_USERNAME` nas URLs pelo seu nome de usuário do GitHub.
-5. Ajuste os links de contato (`mailto` e LinkedIn) com suas informações.
-6. Caso tenha uma foto de perfil, você pode editar a imagem de banner no software de sua preferência e posicionar a sua foto sobre a área vazia do design.
