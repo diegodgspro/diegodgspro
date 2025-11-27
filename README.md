@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="740" height="255" src="assets/banner.png" alt="Banner">
+  <img width="2912" height="1440" alt="Gemini_Generated_Image_ub1iggub1iggub1i" src="https://github.com/user-attachments/assets/94c86e6c-ad30-453c-aaf2-af74e11f33b5" />
 </p>
+
 
 <!-- Perfil GitHub README -->
 
