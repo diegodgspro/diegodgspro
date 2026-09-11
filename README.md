@@ -1,121 +1,93 @@
+<img src="./assets/github-profile-banner.jpg" alt="Technology systems flowing through applied AI and enterprise integrations into structured data" width="100%" />
+
 <div align="center">
 
 # Diego Gabriel dos Santos
 
-### IT Support & Systems Professional building Applied AI Automation, Backend APIs and Enterprise Integrations
+### IT Support & Systems Professional | Applied AI Automation · Backend APIs · Enterprise Integrations
 
-I turn real-world IT operations experience into reliable software for incident intake, troubleshooting, system integration and enterprise automation.
+Building secure, traceable software that connects AI capabilities to real operational workflows.
 
-[DeskPilot Live Demo](https://deskpilot.diegodgspro.workers.dev) · [LinkedIn](https://www.linkedin.com/in/diegodgspro) · [GitHub](https://github.com/diegodgspro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegodgspro)
+[![DeskPilot](https://img.shields.io/badge/Live_Demo-DeskPilot-00A98F?style=flat-square&logo=cloudflare&logoColor=white)](https://deskpilot.diegodgspro.workers.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-diegodgspro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/diegodgspro)
 
 </div>
 
----
-
 ## About me
 
-I am an IT Support and Systems professional with more than 10 years of experience across healthcare, enterprise and industrial environments.
+I am an **IT Support and Systems professional with 10+ years of experience** in healthcare, enterprise and industrial environments. My background spans L2 support, business-critical ERP systems, Windows and Active Directory, infrastructure, networking, databases, incident management and technical documentation.
 
-My background includes L2 support, business-critical ERP systems, Windows and Active Directory, infrastructure, networking, databases, incident management, technical documentation and direct support for corporate users.
+I now apply that operational foundation to **AI-assisted automation, backend APIs and enterprise integration solutions**. My differentiator is the ability to connect software engineering with the realities of production support: security, traceability, human approval, reliability and clear communication.
 
-I am now applying this operational experience to the development of AI-assisted automation, backend APIs and enterprise integration solutions.
+- **Today:** IT Support & Systems professional delivering reliable technical operations
+- **Building:** production-minded projects in applied AI, APIs, automation and data integration
+- **Direction:** international opportunities in Applied AI Engineering, AI Solutions Engineering and AI Backend Engineering
 
-My current portfolio focuses on:
+## Core stack
 
-- Applied AI and machine-learning workflows with human review
-- IT service desk automation and structured incident intake
-- Python and TypeScript application development
-- REST APIs and contract-first integration
-- PostgreSQL, SQLAlchemy and database migrations
-- Authentication, authorization and auditability
-- Automated testing, CI and production-oriented documentation
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+</div>
+
+| Focus | Technologies and practices |
+|---|---|
+| Applied AI | scikit-learn, TF-IDF, retrieval, structured outputs, human-in-the-loop workflows |
+| APIs & integration | REST, OpenAPI, SOAP contracts, WSDL, XSD, JSON, XML |
+| Backend & data | Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Cloudflare D1 |
+| Frontend & cloud | TypeScript, React, Cloudflare Workers, Auth0 |
+| Quality & reliability | Pytest, Vitest, Playwright, CI, audit trails, authorization, concurrency control |
 
 ## Featured projects
 
-### [DeskPilot](https://github.com/diegodgspro/ai-it-service-desk-copilot)
+### [DeskPilot — AI-assisted IT Service Desk Automation](https://github.com/diegodgspro/ai-it-service-desk-copilot)
 
-An IT service desk automation portfolio that transforms synthetic support incidents into structured intake drafts, evidence-led troubleshooting guidance and human-reviewed action simulations.
+A production-oriented portfolio project that transforms synthetic support incidents into structured intake drafts, evidence-led troubleshooting guidance and human-reviewed action simulations.
 
-**Production:** [deskpilot.diegodgspro.workers.dev](https://deskpilot.diegodgspro.workers.dev)
+**Highlights:** React + TypeScript · Cloudflare Workers + D1 · Auth0 with PKCE · Python classification and retrieval lab · append-only audit events · automated API, frontend and browser tests
 
-**Demonstrated engineering:**
+[![Live application](https://img.shields.io/badge/Open_live_application-00A98F?style=flat-square&logo=cloudflare&logoColor=white)](https://deskpilot.diegodgspro.workers.dev)
+[![View repository](https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/diegodgspro/ai-it-service-desk-copilot)
 
-- React and TypeScript user interface
-- Cloudflare Worker API and D1 persistence
-- Auth0 authentication with PKCE and server-side authorization
-- Structured ticket intake and deterministic priority policy
-- Append-only audit events and optimistic concurrency
-- Python classification and knowledge-retrieval lab
-- Automated Python, API, frontend and browser testing
-- GitHub Actions CI and documented deployment controls
+> DeskPilot uses synthetic incidents and simulated automation. Its production web application does not currently use an external LLM or perform unattended remediation.
 
-DeskPilot uses synthetic incidents and simulated automation. The production web application does not currently use an external LLM or perform unattended remediation.
-
-### [Enterprise Integration Hub](https://github.com/diegodgspro/enterprise-integration-hub)
+### [Enterprise Integration Hub — REST, Contracts & Persistence](https://github.com/diegodgspro/enterprise-integration-hub)
 
 A healthcare integration portfolio demonstrating how modern REST consumers and legacy SOAP contracts can share transport-independent business rules.
 
-**Demonstrated engineering:**
+**Highlights:** Python + FastAPI · PostgreSQL + SQLAlchemy · Alembic migrations · OpenAPI, WSDL and XSD contracts · ports-and-adapters architecture · correlation IDs · automated domain, API and persistence tests
 
-- Python and FastAPI
-- REST endpoints for patients and appointments
-- OpenAPI, WSDL and XSD contracts
-- Ports and adapters architecture
-- Transport-independent application services
-- PostgreSQL repositories with SQLAlchemy
-- Alembic database migrations
-- Correlation IDs and structured error semantics
-- API, domain, application and persistence tests
+[![View repository](https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/diegodgspro/enterprise-integration-hub)
 
-The REST and persistence layers are implemented. SOAP contracts are versioned, while the executable SOAP adapter remains part of the roadmap.
+> The REST and persistence layers are implemented. SOAP contracts are versioned, while the executable SOAP adapter remains on the roadmap.
 
-## Engineering focus
+## What I am building toward
 
-| Area | Technologies and practices |
-|---|---|
-| Application development | Python, TypeScript, FastAPI, React |
-| APIs and integration | REST, OpenAPI, SOAP contracts, WSDL, XSD, JSON, XML |
-| Data and persistence | PostgreSQL, SQLAlchemy, Alembic, Cloudflare D1, SQL |
-| Applied AI foundations | scikit-learn, TF-IDF, local retrieval, optional Ollama integration |
-| Cloud and delivery | Cloudflare Workers, GitHub Actions, automated builds and migrations |
-| Quality | Pytest, Node Test Runner, Vitest, Playwright, type checking |
-| Security and reliability | Auth0, PKCE, JWT verification, server-side authorization, audit trails, concurrency control |
-
-## Domain experience
-
-My engineering perspective is grounded in practical experience supporting:
-
-- Enterprise and hospital ERP environments
-- Active Directory and Windows infrastructure
-- Identity, access and permissions
-- Network and endpoint troubleshooting
-- Business-critical incidents
-- User communication and technical documentation
-- Operational systems where safety, traceability and human approval matter
-
-This background helps me design automation around real support workflows instead of treating IT operations as an abstract dataset.
-
-## Currently building toward
-
-- LLM integration with schema-bound structured outputs
-- Tool calling with explicit permissions and human approval
+- LLM integration with schema-bound outputs, evaluation datasets and regression gates
+- Tool calling with explicit permissions, evidence grounding and human approval
 - Retrieval with embeddings and vector search
-- Evaluation datasets and regression gates for AI outputs
-- Prompt-injection defenses and evidence grounding
-- AI observability, tracing, latency and cost monitoring
+- AI observability across quality, tracing, latency and cost
 - Asynchronous workflows and production-grade backend services
 
 ## Professional direction
 
-I am preparing for international opportunities in Applied AI Engineering, AI Solutions Engineering and AI Backend Engineering. I am especially interested in software that connects AI capabilities to real operational workflows with strong security, observability and human oversight.
+I am preparing for **international opportunities in Applied AI Engineering, AI Solutions Engineering and AI Backend Engineering**, especially where AI must integrate safely with real business systems and operational workflows.
 
-## Contact
+<div align="center">
 
-- [LinkedIn](https://www.linkedin.com/in/diegodgspro)
-- [GitHub](https://github.com/diegodgspro)
-- Pindamonhangaba, São Paulo, Brazil
-- Open to remote and international opportunities
+### Let's connect
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diegodgspro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegodgspro)
 
-> All portfolio data is synthetic. No employer source code, credentials or real incident records are included.
+</div>
