@@ -1,4 +1,4 @@
-<img src="./assets/github-profile-banner.png" alt="Technology systems flowing through applied AI and enterprise integrations into structured data" width="100%" />
+<img src="./assets/github-profile-banner.jpg" alt="Technology systems flowing through applied AI and enterprise integrations into structured data" width="100%" />
 
 <div align="center">
 
