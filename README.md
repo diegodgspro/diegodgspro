@@ -24,6 +24,8 @@ I now apply that operational foundation to **AI-assisted automation, backend API
 - **Building:** production-minded projects in applied AI, APIs, automation and data integration
 - **Direction:** international opportunities in Applied AI Engineering, AI Solutions Engineering and AI Backend Engineering
 
+<img src="./assets/github-value-proposition.jpg" alt="From operations to intelligent systems: operational insight, applied AI automation and enterprise integration" width="100%" />
+
 ## Core stack
 
 <div align="center">
